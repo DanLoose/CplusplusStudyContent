@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1623696336 source:c:\users\cliente\documents\1-faculdade\prog\outras implementações\lista encadeada\main.cpp
+	<iostream>
+	"Lista.hpp"
+
+1623696319 c:\users\cliente\documents\1-faculdade\prog\outras implementações\lista encadeada\lista.hpp
+	<iostream>
+
+1623696269 source:c:\users\cliente\documents\1-faculdade\prog\outras implementações\lista encadeada\lista.cpp
+	"Lista.hpp"
+	<iostream>
+

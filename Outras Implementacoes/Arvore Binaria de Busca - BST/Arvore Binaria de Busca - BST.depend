@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623701989 source:c:\users\cliente\documents\1-faculdade\prog\outras implementações\arvore binaria de busca - bst\bst.cpp
+	"BST.hpp"
+	<iostream>
+
+1623699675 c:\users\cliente\documents\1-faculdade\prog\outras implementações\arvore binaria de busca - bst\bst.hpp
+
+1623701948 source:c:\users\cliente\documents\1-faculdade\prog\outras implementações\arvore binaria de busca - bst\main.cpp
+	<iostream>
+	"BST.hpp"
+
