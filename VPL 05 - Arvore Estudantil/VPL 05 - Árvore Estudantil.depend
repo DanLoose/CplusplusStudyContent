@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1623713893 source:c:\users\cliente\documents\1-faculdade\prog\vpl 05 - 햞vore estudantil\aluno.cpp
+	"Aluno.hpp"
+	<iostream>
+
+1623713893 c:\users\cliente\documents\1-faculdade\prog\vpl 05 - 햞vore estudantil\aluno.hpp
+	<iostream>
+
+1623713977 source:c:\users\cliente\documents\1-faculdade\prog\vpl 05 - 햞vore estudantil\bst.cpp
+	"BST.hpp"
+	<iostream>
+
+1623713894 c:\users\cliente\documents\1-faculdade\prog\vpl 05 - 햞vore estudantil\bst.hpp
+	"Aluno.hpp"
+
+1623713895 source:c:\users\cliente\documents\1-faculdade\prog\vpl 05 - 햞vore estudantil\main.cpp
+	"avaliacao_basica_bst.hpp"
+	<iostream>
+
+1623713892 c:\users\cliente\documents\1-faculdade\prog\vpl 05 - 햞vore estudantil\avaliacao_basica_bst.hpp
+	<iostream>
+	<iomanip>
+	<string>
+	<map>
+	<vector>
+	"BST.hpp"
+
