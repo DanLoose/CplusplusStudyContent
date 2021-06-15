@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1623721224 source:c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\cotacao.cpp
+	"Cotacao.hpp"
+	<iostream>
+
+1623721213 c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\cotacao.hpp
+	<iostream>
+
+1623722308 source:c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\historicobovespa.cpp
+	"HistoricoBovespa.hpp"
+	<map>
+
+1623722323 source:c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\main.cpp
+	"HistoricoBovespa.hpp"
+	<iostream>
+
+1623722252 c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\historicobovespa.hpp
+	"Cotacao.hpp"
+	<map>
+	<vector>
+
