@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1622636312 source:c:\users\cliente\documents\1-faculdade\prog\vpl 04 - triangulos\triangulos\main.cpp
+	<iostream>
+	<iomanip>
+	"Triangulo.hpp"
+	"Ponto2D.hpp"
+
+1622636386 c:\users\cliente\documents\1-faculdade\prog\vpl 04 - triangulos\triangulos\triangulo.hpp
+	"Ponto2D.hpp"
+	<math.h>
+
+1622637323 c:\users\cliente\documents\1-faculdade\prog\vpl 04 - triangulos\triangulos\ponto2d.hpp
+	<math.h>
+
+1623679808 source:c:\users\cliente\documents\1-faculdade\prog\vpl 04 - triangulos\triangulos\ponto2d.cpp
+	"Ponto2D.hpp"
+	<math.h>
+
+1623678224 source:c:\users\cliente\documents\1-faculdade\prog\vpl 04 - triangulos\triangulos\triangulo.cpp
+	"Triangulo.hpp"
+	<math.h>
+
