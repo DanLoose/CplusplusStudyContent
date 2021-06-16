@@ -6,16 +6,28 @@
 1623721213 c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\cotacao.hpp
 	<iostream>
 
-1623722308 source:c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\historicobovespa.cpp
+1623792039 source:c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\historicobovespa.cpp
 	"HistoricoBovespa.hpp"
-	<map>
-
-1623722323 source:c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\main.cpp
-	"HistoricoBovespa.hpp"
-	<iostream>
-
-1623722252 c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\historicobovespa.hpp
 	"Cotacao.hpp"
 	<map>
+	<iostream>
+	<iomanip>
+
+1623792506 source:c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\main.cpp
+	"avaliacao_basica_bovespa.hpp"
+
+1623790344 c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\historicobovespa.hpp
+	"Cotacao.hpp"
+	<map>
+	<iostream>
 	<vector>
+
+1623720025 c:\users\cliente\documents\1-faculdade\prog\vpl 06 - bovespa\avaliacao_basica_bovespa.hpp
+	<iostream>
+	<iomanip>
+	<string>
+	<map>
+	<vector>
+	"Cotacao.hpp"
+	"HistoricoBovespa.hpp"
 
